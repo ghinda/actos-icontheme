@@ -11,5 +11,4 @@ Some icons are originaly, or inspired by, icons from:
 * The Noun Project (http://thenounproject.com/)
 
 Spec:
-* Size: 22x22 and bellow
-* Color: 70% Grey
+* Color: 76% Grey
