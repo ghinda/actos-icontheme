@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=Arctos
-Comment=Minimalist icon theme inspired by Android, part of Arctos, for KDE.
+Name=Actos
+Comment=Minimalist icon theme inspired by Android, part of Actos, for KDE.
 DisplayDepth=32
 Inherits=oxygen,hicolor
 Version=1.0
@@ -24,7 +24,7 @@ PanelSizes=16,22,32,48,64,128,
 DialogDefault=32
 DialogSizes=16,22,32,48,64,128,
 
-Directories=8/emblems,16/actions,16/apps,16/emblems,16/mimes,16/places,16/status,22/actions,22/apps,22/categories,22/emblems,22/mimes,22/places,22/status
+Directories=8/emblems,16/actions,16/apps,16/emblems,16/mimes,16/places,16/status,22/actions,22/apps,22/categories,22/emblems,22/mimes,22/places,22/status,48/actions,48/apps,48/categories,48/emblems,48/mimes,48/places,48/status
 
 [8/emblems]
 Size=8
@@ -93,5 +93,40 @@ Type=Threshold
 
 [22/status]
 Size=22
+Context=Status
+Type=Threshold
+
+[48/actions]
+Size=48
+Context=Actions
+Type=Threshold
+
+[48/apps]
+Size=48
+Context=Applications
+Type=Threshold
+
+[48/emblems]
+Size=48
+Context=Emblems
+Type=Threshold
+
+[48/mimes]
+Size=48
+Context=Mimetypes
+Type=Threshold
+
+[48/places]
+Size=48
+Context=Places
+Type=Threshold
+
+[48/categories]
+Size=48
+Context=Places
+Type=Threshold
+
+[48/status]
+Size=48
 Context=Status
 Type=Threshold

@@ -1,7 +1,7 @@
-Arctos IconTheme
+Actos IconTheme
 ================
 
-The Arctos icon theme provides a set of minimalist, monochrome, icons for the KDE desktop.
+The Actos icon theme provides a set of minimalist, monochrome, icons for the KDE desktop.
 
 It requires the Oxygen icon theme, installed by default with KDE SC, so that it can inherit most of the icons from it. 
 
