@@ -11,4 +11,4 @@ Some icons are originaly, or inspired by, icons from:
 * The Noun Project (http://thenounproject.com/)
 
 Spec:
-* Color: 76% Grey
+* Color: 60% Grey
